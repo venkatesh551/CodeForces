@@ -1,0 +1,51 @@
+V "GNAT Lib v4.6"
+M P W=b
+P SS ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnnvnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
+U main%b		readEx.adb		7e0d28ac NE OO SU IL
+W text_io%s		text_io.ads		text_io.ali
+
+D ada.ads		20070406091342 3ffc8e18
+D a-except.ads		20090727140100 0c711ac9
+D a-finali.ads		20090409150019 e5e85fa4
+D a-filico.ads		20090409150019 872dc219
+D a-ioexce.ads		20091130110856 8b9de6cd
+D a-stream.ads		20090409150019 2ca4ee37
+D a-tags.ads		20101021101406 c7695348
+D a-textio.ads		20091028140912 386df5d4
+D a-unccon.ads		20070406091342 f9eb8f06
+D interfac.ads		20090409150019 f77d8799
+D i-cstrea.ads		20100622165701 1bd72c32
+D readEx.adb		20130913173610 3bdb0e65
+D system.ads		20120503154647 23e1f70b
+D s-crtl.ads		20100617122610 ac77b159
+D s-exctab.ads		20090417131547 66e51330
+D s-ficobl.ads		20100909103250 443b9d66
+D s-finimp.ads		20090409150019 46853fe8
+D s-finroo.ads		20090409150019 dbb860c9
+D s-parame.ads		20091130110856 9c5d83fa
+D s-secsta.ads		20090707124243 eea35a36
+D s-soflin.ads		20090729085153 9414c974
+D s-stache.ads		20090417130712 596fc1b4
+D s-stalib.ads		20101021102512 c4241c00
+D s-stoele.ads		20090417130712 facd7d98
+D s-stoele.adb		20100617152355 afc5dc80
+D s-stratt.ads		20100909123135 aedef97e
+D s-traent.ads		20090417130712 5221ee41
+D s-unstyp.ads		20090409150019 6ae15c76
+D s-wchcon.ads		20090417130712 bfeb2e3d
+D text_io.ads		20070406091342 45d626c9
+X 8 a-textio.ads
+52P9*File_Type(370R9)
+118V13*Standard_Input{52P9} 12|8s22
+243U14*Put 12|10s12
+245U14*Get_Line 12|8s12
+X 12 readEx.adb
+3U16*main 3b16 11l10 11t14
+4a12 name1{string} 9m12 10r17
+5i12 n{integer} 8m44 9r21 9r35
+6a12 line{string} 8m38 9r27
+X 30 text_io.ads
+24K9*Text_IO=24:29 12|1w6 1r19
+
